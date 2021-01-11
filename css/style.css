@@ -57,7 +57,12 @@ body {
           align-items: center;
   text-align: center;
 }
-
+.logo-img {
+  width: 100px;
+  height: 100px;
+  margin: 0;
+  padding: 0;
+}
 a,
 a:hover,
 a:focus {
